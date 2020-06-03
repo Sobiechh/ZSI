@@ -1,0 +1,92 @@
+\documentclass[12pt,a4paper]{article}
+
+\usepackage[T1]{fontenc}
+\usepackage[polish]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\selectlanguage{polish}
+\usepackage{graphicx}
+
+\begin{document}
+\pagenumbering{gobble}
+\clearpage
+\begin{figure}[h]
+\centering
+\includegraphics{ps-logo.png}
+\end{figure}
+\hspace{3cm}
+\begin{center}Dokumentacja projektu\end{center}
+\begin{center}2019/2020\end{center}
+\hspace{3cm}
+\begin{center}\large\textbf{Zarządzanie systemami informatycznymi}\end{center}
+\begin{center}\large\textit{Moduł 1}\end{center}
+
+\hspace{7cm}
+\begin{flushright}Kierunek: Informatyka
+\end{flushright}
+\begin{flushright}Członkowie zespołu:
+\par
+\textit{Karol Nawrot}
+\par
+\textit{Piotr Sobieszczyk}
+\end{flushright}
+\vfill
+\begin{center}Gliwice, 2019/2020\end{center}
+
+\newpage
+\pagenumbering{arabic}
+\tableofcontents
+
+\newpage
+\section{Wprowadzenie}
+
+\subsection{Role w projekcie}
+1.Karol - Główny researcher zespołu, tworzenie prezentacji, project manager, pasjonat sieci komputerowych \newline
+2.Piotr - Tworzenie repozytorium, dokumentacji, dobrze orientuje się w sieciach bezprzewodowych
+\subsection{Cel projektu}
+\newline
+1.5.a. Przykładowe wykorzystanie narzędzi informatycznych w analizie ruchu sieciowego [→Wireshark; →Ostinato]
+\newline
+1.5.b. Mechanizmy ochrony transmisji w sieciach bezprzewodowych [→https://www.wi-fi.org/discover-wi-fi/security]
+\newline
+1.5.c. Biometryczna kontrola dostępu [→https://www.typingdna.com/]
+
+\newpage
+
+\section{Założenia projektowe}
+
+\subsection{Założenia techniczne i nietechniczne}
+Zakładamy, że jesteśmy połączeni z siecią bezprzewodową. \\
+Posiadamy komputer lub laptop z systemem Windows.
+
+\subsection{Stos technologiczny}
+Narzędzia i systemy informatyczne związane z projektem \newline 
+1. Program Wireshark, służący do analizy ruchu sieciowego w czasie rzeczywistym. \newline
+2. Z punktu widzenia bezpieczeństwa urządzeń przyłączających się przewodowo i bezprzewodowo, ważne są dwa główne elementy. Pierwszym z nich będzie kontrola urządzenia na zgodność z określonym zestawem reguł bezpieczeństwa, uwierzytelnienie oraz przypisanie urządzeń do odpowiednich kategorii. Wskazane funkcje może realizować system NAC (Network Access Control). Drugim ważnym elementem będzie mechanizm zapobiegający wyciekom informacji z sieci oraz umożliwiający śledzenie przemieszczania się danych, określany nazwą DLP (Data Loss Prevention). Dodatkowo mogą być stosowane różne mechanizmy uzupełniające, przykładowo system antywirusowy, zapory ogniowe, systemy zarządzania urządzeniami mobilnymi MDM (Mobile Device Management).
+\newline
+3.API do biometryki behawioralnej, które analizuje nasz sposób pisania w celu uwierzytalniania.
+
+\subsection{Oczekiwane rezultaty projektu}
+Oczekujemy, że za pomocą Wireshark'a przechwycimy pakiety z danej sieci oraz będziemy mogli przyjrzeć się każdemu z nich. Sprawdzimy również adres IP źródła oraz celu, a także zastosowany protokół transmisji.
+\newpage
+\section{Realizacja projektu}
+Opis wszystkich etapów realizacji projektu \\
+1. Research \\
+2. Sformułowanie założeń co do oczekiwanych rezultatów \\
+3. Przeprowadzenie eksperymentów za pomocą podanych w stosie technologicznym narzędzi \\
+4. Stwierdzenie wniosków oraz przedyskutowanie wyników \\
+5. Prezentacja wyników \\
+\newpage
+\section{Wnioski}
+\begin{itemize}
+\item \textit{Spostrzeżenia} \\
+Wireshark pozwala na dokładny podgląd ruchu sieci. Szyfrowanie danych jest ważna rzeczą w dzisiejszych czasach.
+\item \textit{Osiągnięcia}\\
+Byliśmy w stanie przyjrzeć się w szczególe każdemu pakietowi oraz jego zawartości.
+Wiedza na temat szyfrowania danych w sieci oraz ich zabezpieczeniu została poszerzona i szeroko rozwinięta.
+Filtrowanie pakietów internetowych stało się rzeczą zrozumiałą.
+Wiedza z informatyki jest posiadana.
+\item \textit{Potencjał rozwoju}\\
+Wprowadzenie analizy sposobu pisania jako powszechny drugi etap weryfikacji użytkownika np w procesie logowania znacznie zwiększyłoby poziom zabiezpieczeń.
+\end{itemize}
+\end{document}
