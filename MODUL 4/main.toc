@@ -1,0 +1,11 @@
+\babel@toc {polish}{}
+\babel@toc {polish}{}
+\contentsline {section}{\numberline {1}Wprowadzenie}{2}%
+\contentsline {subsection}{\numberline {1.1}Role w projekcie}{2}%
+\contentsline {subsection}{\numberline {1.2}Cel projektu}{2}%
+\contentsline {section}{\numberline {2}Założenia projektowe}{3}%
+\contentsline {subsection}{\numberline {2.1}Założenia techniczne i nietechniczne}{3}%
+\contentsline {subsection}{\numberline {2.2}Stos technologiczny}{3}%
+\contentsline {subsection}{\numberline {2.3}Oczekiwane rezultaty projektu}{3}%
+\contentsline {section}{\numberline {3}Realizacja projektu}{4}%
+\contentsline {section}{\numberline {4}Wnioski}{5}%

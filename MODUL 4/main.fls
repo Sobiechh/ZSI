@@ -1,0 +1,95 @@
+PWD c:\Users\Karol\Desktop\repoZSI\ZSI\MODUL 4
+INPUT C:\Users\Karol\AppData\Local\MiKTeX\2.9\miktex\data\le\pdftex\pdflatex.fmt
+INPUT c:\Users\Karol\Desktop\repoZSI\ZSI\MODUL 4\main.tex
+OUTPUT c:\Users\Karol\Desktop\repoZSI\ZSI\MODUL 4\main.log
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\size12.clo
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\size12.clo
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\jknappen\ec\ecrm1200.tfm
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\babel\txtbabel.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\babel-polish\polish.ldf
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\babel-polish\polish.ldf
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\lm\lmodern.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\lm\lmodern.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3backend\l3backend-pdfmode.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3backend\l3backend-pdfmode.def
+INPUT c:\Users\Karol\Desktop\repoZSI\ZSI\MODUL 4\main.aux
+INPUT c:\Users\Karol\Desktop\repoZSI\ZSI\MODUL 4\main.aux
+OUTPUT c:\Users\Karol\Desktop\repoZSI\ZSI\MODUL 4\main.aux
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\lm\t1lmr.fd
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\lm\t1lmr.fd
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmr12.tfm
+INPUT C:\Program Files\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Program Files\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT c:\Users\Karol\Desktop\repoZSI\ZSI\MODUL 4\media\ps-logo.png
+INPUT c:\Users\Karol\Desktop\repoZSI\ZSI\MODUL 4\media\ps-logo.png
+OUTPUT c:\Users\Karol\Desktop\repoZSI\ZSI\MODUL 4\main.pdf
+INPUT c:\Users\Karol\Desktop\repoZSI\ZSI\MODUL 4\media\ps-logo.png
+INPUT c:\Users\Karol\Desktop\repoZSI\ZSI\MODUL 4\media\ps-logo.png
+INPUT c:\Users\Karol\Desktop\repoZSI\ZSI\MODUL 4\media\ps-logo.png
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmr12.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmbx12.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmri12.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmri12.tfm
+INPUT C:\Users\Karol\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmr17.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmbx12.tfm
+INPUT c:\Users\Karol\Desktop\repoZSI\ZSI\MODUL 4\main.toc
+INPUT c:\Users\Karol\Desktop\repoZSI\ZSI\MODUL 4\main.toc
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmbx12.tfm
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr12.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr8.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr6.tfm
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\lm\omllmm.fd
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\lm\omllmm.fd
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\lm\lmmi12.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\lm\lmmi8.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\lm\lmmi6.tfm
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\lm\omslmsy.fd
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\lm\omslmsy.fd
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\lm\lmsy10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\lm\lmsy8.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\lm\lmsy6.tfm
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\lm\omxlmex.fd
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\lm\omxlmex.fd
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\lm\lmex10.tfm
+OUTPUT c:\Users\Karol\Desktop\repoZSI\ZSI\MODUL 4\main.toc
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\lm\ts1lmr.fd
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\lm\ts1lmr.fd
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\lm\ts1-lmr12.tfm
+INPUT c:\Users\Karol\Desktop\repoZSI\ZSI\MODUL 4\main.aux
+INPUT C:\Program Files\MiKTeX 2.9\fonts\enc\dvips\lm\lm-ts1.enc
+INPUT C:\Program Files\MiKTeX 2.9\fonts\enc\dvips\lm\lm-ec.enc
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\lm\lmbx12.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\lm\lmbx12.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\lm\lmr12.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\lm\lmr12.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\lm\lmri12.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\lm\lmri12.pfb
